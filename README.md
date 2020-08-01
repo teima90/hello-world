@@ -6,3 +6,6 @@ New line from computer
 another line
 another line
 and more
+
+
+And now from Rstudio
